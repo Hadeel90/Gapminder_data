@@ -6,7 +6,7 @@ void setup() {
   Table data = loadTable("total_fertility_since_birth.csv", "header");
   for (TableRow row : data.rows()) {
     float x = map(row.getFloat("longitude"), -180, 180, 0, width);
-    float y = map(row.getFloat("latitude"), -180, 180, 0, height);
+    float y = map(row.getFloat("latitude"), 0, 90, 0, height);
     point(x, y);
   }
 
