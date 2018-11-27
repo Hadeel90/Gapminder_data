@@ -6,5 +6,5 @@ The visualizations in these files display fertility tally, relating 1990, my dat
 P.S. The maps are obtained from stock.adobe.com, so I can't upload them on Github to avoid copyright infringement, but the screenshots can give you an idea of the two map projections.
 
 
-![Cylindrical projection] (gapminder/viz.jpg?raw=true "cylindrical projection")
-![Polar projection] (gapminder_polar/viz_polar.jpg?raw=true "polar projection")
+![Cylindrical projection](gapminder/viz.jpg?raw=true "cylindrical projection")
+![Polar projection](gapminder_polar/viz_polar.jpg?raw=true "polar projection")
